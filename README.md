@@ -10,9 +10,12 @@ Container is the parent element {THE BOX WHERE ITLL ALL BE CONTAINED IN.}
 Flex items is the direct children {ITEMS IN THE BOX}, these are the elements thatll be laid out in the box mode.
 
 MAIN PROPERTIES;
+ Some examples of the flexbox properties;
 1. (display); This defines the element as a flex container
 2. (flex-direction): This defines the direction of the flex items. Examples include;(row), (column), (row-reverse), (column-reverse).
 3. (justify-content): This aligns items along the main axis. Examples include: (flex-start), (flex-end), (center), (space-between), (space-around).
+4. (align-items) : Aligns flex items along the cross axis. Examples include: (flex-start),(flex-end),(center),(baseline),(stretch).
+5. (flex-wrap): Controls whether flex items should wrap onto multiple lines. Examples include: (nowrap),(wrap),(wrap-reverse).
 
 BENEFITS OF FLEXBOX 
 . Responsive sizing designs
