@@ -1,0 +1,22 @@
+.flex-container{
+    display: flex;
+    font-size: medium;
+    flex-direction: row; 
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 200px;
+}
+.header-item{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+    flex-grow: 1;
+    text-align: center;
+}
+.item {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+    flex-grow: 1;
+}
